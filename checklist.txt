@@ -1,0 +1,5 @@
+Структура чек-листа:
+1. ID
+2. Проверка 
+3. Результат (Passed, Fail, Bug, Blocker, Skipped, Draft)
+
